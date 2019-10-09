@@ -1,4 +1,4 @@
-# tic-tac-toe
+# tic-tac-toe GAME::-
 
 Tic Tac Toe - Basic: This is a basic tic tac toe game in which user can choose the marker and play aganist computer. 
 Tic Tac Toe - Block: In this computer try to prevent the user for winning the game.
